@@ -1,0 +1,20 @@
+﻿1 about 
+2 music
+3 news
+4 - blog
+5 take cover
+6 - tech
+7- fly
+8 - facebook
+9 instagram
+10 youtube
+11 twitter
+12 contact
+
+
+1 SZCQ BC
+2 TECH site
+
+4 GIRLS
+5 TAKE COVER
+6 SOUNDCLOUD
