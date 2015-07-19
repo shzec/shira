@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+  <!--<![endif]-->
+  <head>
+    <meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
+    <meta charset="utf-8">
+    <title>The Technicalities</title>
+    <meta name="description" content="This is the website of the musical duo The Technicalities">
+    <!-- Mobile viewport optimized: h5bp.com/viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" media="screen" href="css/superfish.css">
+    <link rel="stylesheet" href="css/nivo-slider.css" media="all">
+    <link rel="stylesheet" href="css/tweet.css" media="all">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" media="all" href="css/lessframework.css">
+    <!-- All JavaScript at the bottom, except this Modernizr build.
+	   Modernizr enables HTML5 elements & feature detects for optimal performance.	   Create your own custom Modernizr build: www.modernizr.com/download/ -->
+    <script src="js/modernizr-2.5.3.min.js"></script>
+  </head>
+  <body>
+    <!-- HEADER -->
+    <header>
+      <!-- header wrapper -->
+      <div class="wrapper cf">
+        <div id="logo"> <a href="index.html"><img src="img/logo.png" alt=""></a>
+        </div>
+      </div>
+      <!-- ENDS header wrapper -->
+      <!-- nav -->
+      <nav class="cf">
+        <div class="wrapper cf">
+          <ul id="nav" class="sf-menu">
+            <li class="current-menu-item"><a href="index.html">HOME<i><b></b></i></a></li>
+            <li><a target="_top" href="#about">ABOUT<i><b></b></i></a></li>
+            <li><a href="newsgigs.html">NEWS :: GIGS<i><b></b></i></a></li>
+            <li><a href="music.html">MUSIC<i><b></b></i></a></li>
+            <li><a href="contact.html">CONTACT<i><b></b></i></a></li>
+            <li><br>
+            </li>
+          </ul>
+          <div id="combo-holder"></div>
+        </div>
+      </nav>
+      <!-- ends nav --> </header>
+    <!-- ENDS HEADER -->
+    <!-- MAIN -->
+    <div role="main" id="main">
+      <div class="wrapper">
+        <!-- page-content -->
+        <div class="page-content portfolio-content">
+          <!-- entry-content -->
+          <div class="entry-content cf">
+            <!-- TUBE -->
+            <div align="center"> <iframe src="http://www.youtube.com/embed/98DEV1hSg1g?rel=0"
+
+                allowfullscreen="" frameborder="0" height="80%" width="80%"></iframe>
+              <div class="entry-top"></div>
+            </div>
+            <!-- ENDS TUBE  --> <br>
+            <br>
+            <div id="about">
+              <h2 align="center"> We are The Tehnicalities! Learn more:</h2>
+              <br>
+              <!-- project content -->
+              <div>
+                <p> The Technicalities are Shira Z. Carmel and Alon Diament -
+                  partners both in life and in music. <br>
+                  Our Birobidzhan Project consists of Yiddish poems that were
+                  written by poets who either lived or dreamed of living in
+                  Birobidzhan, the Soviet "Jewish land" in the 1930's and
+                  onwards, set to music and arranged by the Technicalities
+                  (that's us!). <br>
+                  Together we dream of the "what if"s and "would be"s, and
+                  revive the forsaken dream, the ideal that was Birobidzhan. We
+                  try to bridge the gap between the parallel and sometimes
+                  non-existing realities of the Jewish lands, combining the
+                  (disappearing?!) Yiddish, and the ghosts of the Jewish past
+                  with contemporary music, maid by two young musicians in Israel
+                  today.<br>
+                  The program was written and first performed for the exhibition
+                  "Where to? - solving the Jewish question" in the Israeli
+                  Digital Art Museum on April 2012, and "evolved" thanks to our
+                  European tour and "The Jewish Music Festival" in Amsterdam,
+                  where we performed on August 2012. <br>
+                  Please feel free to ask us anything, book us for a concert or
+                  support our music by downloading our EP. <br>
+                </p>
+                <h3 align="center"> * THANK YOU * </h3>
+                <p></p>
+              </div>
+              <!-- ENDS project content -->
+              <!-- ENDS entry-content --> </div>
+            <!-- ENDS page-content --> </div>
+        </div>
+        <!-- ENDS MAIN -->
+      
+          <footer>
+          <!-- wrapper -->
+         
+            
+            <!-- social -->
+            <div class="sb-holder cf">
+              <ul id="social-bar" class="cf">
+                <li class="left-corner"><i></i><br>
+                </li>
+                <li><a href="http://www.facebook.com" title="Become a fan"><img
+
+                      src="img/social/Facebook.png" alt="Facebook"></a></li>
+                <li><a href="http://www.twitter.com" title="Follow my tweets"><img
+
+                      src="img/social/Twitter.png" alt="twitter"></a></li>
+                <li><a href="http://www.google.com" title="Add to the circle"><img
+
+                      src="img/social/Google+.png" alt="Google plus"></a></li>
+                <li class="right-corner"><i></i><br>
+                </li>
+              </ul>
+            </div>
+            <!-- ENDS social --> <br>
+            <br>
+            <div id="footer-bottom" align="center">Site Design by <a href="http://www.shiracarmel.com">Shira
+                Z. Carmel</a> based on <a href="http://www.luiszuno.com">luiszuno.com</a>
+              Template</div>
+         
+          <!-- ENDS wrapper --> </footer>
+        
+        
+        <!-- JavaScript at the bottom for fast page loading -->
+        <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/jquery-1.7.1.min.js"><\/script>')</script>
+        <!-- scripts concatenated and minified via build script -->
+        <script src="js/custom.js"></script>
+        <!-- superfish -->
+        <script src="js/superfish-1.4.8/js/hoverIntent.js"></script>
+        <script src="js/superfish-1.4.8/js/superfish.js"></script>
+        <script src="js/superfish-1.4.8/js/supersubs.js"></script>
+        <!-- ENDS superfish -->
+        <script src="js/tweet/jquery.tweet.js"></script>
+        <script src="js/jquery.isotope.min.js"></script>
+        <script src="js/jquery.nivo.slider.js"></script>
+        <script src="js/css3-mediaqueries.js"></script>
+        <script src="js/tabs.js"></script>
+        <script src="js/poshytip-1.1/src/jquery.poshytip.min.js"></script>
+        <!-- end scripts --> </div>
+    </div>
+  </body>
+</html>
